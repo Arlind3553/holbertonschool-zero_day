@@ -2,6 +2,6 @@
 #!/bin/bash
 #echo "Best School"
 =======
-#!/bin/bas
+#!/bin/bash
 echo "This School is so cool!"
 >>>>>>> main
