@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 #echo "Best School"
+=======
+#!/bin/bas
+echo "This School is so cool!"
+>>>>>>> main
